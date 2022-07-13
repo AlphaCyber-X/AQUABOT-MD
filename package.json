@@ -1,22 +1,22 @@
 {
-  "name": "Aquabot-MD",
+  "name": "DeviL-MD",
   "version": "1.0.0",
-  "description": "aquabot happy for whatsapp.",
+  "description": "DeviL happy for whatsapp.",
   "main": "/aquabot/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sanuwaofficial/AQUABOT-MD.git"
+    "type": "Youtube",
+    "url": "https://youtube.com/channel/UCDc_vYQFGHznliwSypY_5CA"
   },
-  "author": "sanuwa official",
-  "developer": "sanuwa",
+  "author": "YakaModz",
+  "developer": "samith",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/sanuwaofficial/AQUABOT-MD/issues"
+    "url": "https://youtube.com/channel/UCDc_vYQFGHznliwSypY_5CA"
   },
-  "homepage": "https://github.com/sanuwaofficial/AQUABOT-MD",
+  "homepage": "https://youtube.com/channel/UCDc_vYQFGHznliwSypY_5CA",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
     "@adiwajshing/keyed-db": "^0.2.4",  
